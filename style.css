@@ -1,0 +1,35 @@
+body{
+    font-family: 'Poppins',
+    sans-serif;
+}
+h1{
+    font-size: 50px;
+    color:grey;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+    margin-top: 10%;
+}
+.top-section{
+    display: flex;
+    width: 100%;
+}
+span{
+    color: hotpink;
+}
+.click{
+   background-image:linear-gradient(hotpink, red);
+   background-color:indigo;
+   border-radius: 70px;
+   color: white;
+   font-weight: 700;
+   padding: 20px 50px;
+   text-decoration: none;
+
+}
+.text{
+    color: grey;
+    margin-bottom: 50px;
+}
